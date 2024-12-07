@@ -1,0 +1,6 @@
+command=LOAD_CONST, args=[284]
+command=WRITE_MEM, args=[10]
+command=READ_MEM, args=[10]
+command=SGN, args=[0]
+
+
